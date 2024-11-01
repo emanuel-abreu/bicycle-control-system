@@ -1,5 +1,3 @@
-# bicycle-rental-system
-
 <h1 align="center">
    Sistema de controle de bicicletário.
 </h1>
